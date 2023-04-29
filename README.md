@@ -1,7 +1,7 @@
 
 # 🍄 Trà Quang Duy 
 
-**`AI Engineer (Designer/STEM/Calisthenic)`**
+**`AI Engineer (Robotics/STEM/Calisthenic)`**
 
 I am a Junior Computer Science student at Greenwich University, passionate about researching AI, Computer Vision, and IoT.I have accumulated considerable experience working with algorithms applied in Computer Vision and aim to develop more optimized algorithms with lower complexity.My primary focus is converting these algorithms into efficient JavaScript libraries for website and mobile app deployment through NodeJS and ensuring their compatibility with IoT devices.I am a dedicated individual with a keen eye for detail, always seeking to improve and expand my skill set to deliver high-quality results.
 📫 How to reach me: tranquangduy246@gmail.com

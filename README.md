@@ -43,7 +43,8 @@ I am a Junior Computer Science student at Greenwich University, passionate about
 
 <details>
  <summary><h3>👨‍💻 EricTra's Coding Journey</h3></summary>
-  Update soon.
+  Update soon..
+  
 
 [linkedin]: https://www.linkedin.com/in/traquangduy/
 [facebook]: https://www.facebook.com/traquangduy410/

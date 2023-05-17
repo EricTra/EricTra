@@ -1,5 +1,5 @@
 
-# 🍄 Trà Quang Duy 
+# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">Trà Quang Duy 
 
 **`AI Engineer (Robotics/STEM/Calisthenic)`**
 
@@ -34,14 +34,11 @@ I am a Junior Computer Science student at Greenwich University, passionate about
 #
 
 ### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=erictra&show_icons=true&theme=gruvbox)
+![EricTra's GitHub stats](https://github-readme-stats.vercel.app/api?username=erictra&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=erictra&theme=gruvbox&border_radius=4.5) -->
 
 #
-
-
 [linkedin]: https://www.linkedin.com/in/traquangduy/
 [facebook]: https://www.facebook.com/traquangduy410/
 

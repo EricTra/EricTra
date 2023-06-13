@@ -1,4 +1,4 @@
-
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=12121&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=20&fontColor=FFFF&width=100%)](#)
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Trà Quang Duy 
 
 **`AI Engineer (Robotics/STEM/Calisthenic)`**
@@ -34,14 +34,14 @@ My primary focus is converting these algorithms into efficient JavaScript librar
 <img align="left" alt="Ardunio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <br />
 
-#
-
-### 📊 Stats
+## 📊 Stats
 ![EricTra's GitHub stats](https://github-readme-stats.vercel.app/api?username=erictra&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=erictra&theme=gruvbox&border_radius=4.5) -->
 
-#
-[linkedin]: https://www.linkedin.com/in/traquangduy/
-[facebook]: https://www.facebook.com/traquangduy410/
+## 💻Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erictra&&langs_count=10&theme=gruvbox&hide=html&layout=compact)](https://www.github.com/Erictra)
+
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=121212&height=120&fontAlignY=75&section=footer&fontAlign=25&animation=twinkling&text=That%27s%20all,%20have%20a%20good%20day!&fontSize=20&fontColor=FFFFFF)](#)

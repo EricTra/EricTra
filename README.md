@@ -1,11 +1,8 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=12121&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=20&fontColor=FFFF&width=100%)](#)
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Trà Quang Duy 
 
-**` Intern AI Engineer (Computer Vison/IOT/Calisthenic)`**
-
-I am a Junior Computer Science student at Greenwich University, passionate about researching AI, Computer Vision, and IoT.I have accumulated considerable experience working with algorithms applied in Computer Vision and aim to develop more optimized algorithms with lower complexity.
+**` Intern AI Engineer (Computer Vison)`**
 <br />
-My primary focus is converting these algorithms into efficient JavaScript libraries for website and mobile app deployment through NodeJS and ensuring their compatibility with IoT devices.I am a dedicated individual with a keen eye for detail, always seeking to improve and expand my skill set to deliver high-quality results.
 <br />
 📫 How to reach me: traquangduy246@gmail.com or tranquangduy246@gmail.com
    <p align="left">

@@ -4,7 +4,7 @@
 **` Intern AI Engineer (Computer Vison)`**
 <br />
 <br />
-📫 How to reach me: traquangduy246@gmail.com or tranquangduy246@gmail.com
+📫 How to reach me: traquangduy246@gmail.com or (https://www.linkedin.com/in/traquangduy/)
    <p align="left">
       <a href="https://github.com/EricTra?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EricTra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>

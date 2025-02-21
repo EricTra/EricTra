@@ -1,7 +1,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=12121&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=20&fontColor=FFFF&width=100%)](#)
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Trà Quang Duy 
 
-**` Intern AI Engineer (Computer Vison)`**
+**` RPA DEVELOPER / AI Engineer (Computer Vison)`**
 <br />
 <br />
 📫 How to reach me: traquangduy246@gmail.com or (https://www.linkedin.com/in/traquangduy/)
